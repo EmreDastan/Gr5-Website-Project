@@ -1,11 +1,45 @@
-Gr5-Website-Project
+# Internship Portal
 
-Project Manager: Ali Youssef
-Front-End Team: Ali Youssef, Yaren Aydın, Ezeddin Ahmad Ezou Anaya, Tariq Zaidan
-Back-End Team: Yunus Emre Daştan, Emir Akkuş, Ali Uludağ, Yekbun Akdağ
+### Technologies Used
 
-This project is made by GR5 for a full functional website including a connected database. Team GR5 did this project in second semester of third year in Uskudar University.
-This is not the final version of the project. In the final version there are some front-end fixes and all are connected to back-end.
-I was responsible with creating the ERD diagram, managing the back-end features and connecting back-end with front-end in admin page login, homepage, assign instructor, assign employee (shortly all admin parts).
+- HTML5
+- CSS
+- PHP
+- MYSQL
+- Ajax
+- Bootstrap
+- JS
 
-The goal of the project is to student to download application forms, fill it and send it to coordinator. Find internships, apply them and career center accepts or reject the intership request. There is a communication line between student -> coordinator -> career center.
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/itsmnsi/Internship-Portal)
+
+### Teammates
+<table>
+	<tr>
+		<td align="center"><img src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/manasi.JPG"  width=200px;"><br /><sub><b>Manasi Patil</b></sub><br/><a href="https://github.com/itsmnsi">🧠👨‍💻🚀❤️</a></td>
+		<td align="center"><img src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/vrushali.jpg"  width=200px;"><br /><sub><b>Vrushali Pawar</b></sub><br/><a href="https://github.com/Vrushali0203">🧠👨‍💻🚀❤️</a></td>
+		<td align="center"><img src="https://github.com/itsmnsi/Internship-Portal/blob/main/img/priya.jpg"  width=200px;"><br /><sub><b>Priya Gunjal</b></sub><br/><a href="https://github.com/PRIYA0609">🧠👨‍💻🚀❤️</a></td>
+	</tr>				
+</table>
+
+
+### Snapshots
+
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/1.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/2.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/3.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/4.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/5.PNG)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/6.PNG)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/7.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/8.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/9.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/10.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/11.png)
+![](https://github.com/itsmnsi/Internship-Portal/blob/main/img/12.png)
+
+
+
+
+
+
+
